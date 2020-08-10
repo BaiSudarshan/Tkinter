@@ -4,6 +4,7 @@ import time
 
 root=tk.Tk()
 root.title("Simple Calculator")
+root.iconbitmap("calc.ico")
 
 root.geometry("400x400")
 
